@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the repository that stores my source codess, class, and project works during the Georgia Tech Graduate Programs. I am sharing my work and portfolio. Some of the repositories are private and cannot be shared. Let me know if you have any questions.  
+This is the main repository for my source codes, class materials, and project work from the Georgia Tech Graduate Programs. Through this collection, you can gain an understanding of the topics I explored and studied during my academic and personal endeavors in data science. I am sharing my portfolio here, including content from both private and public online classes. Please note that some repositories are private and cannot be shared. Feel free to reach out if you have any questions.
 
 <!--
 **iptracej-education/iptracej-education** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
