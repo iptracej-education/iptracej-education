@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Microsoft career journey since I have worked there for more than 2 decades in IT security business. 
 - 📫 How to reach me: Please send your email to kiwatana@hotmail.co.jp with your brief introduction. 
 - ⚡ Fun fact: I like dogs and having funs with them, in Dayton, Ohio. I am also getting a private license for aviation.
-- ✨ Professional: https://www.linkedin.com/in/kiyoshi-watanabe-06395213/ and https://github.com/iptracej/
+- ✨ Professional: [Linkedin](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/) and [Github](https://github.com/iptracej/)
 - ✨ Programming: C, C++, C#, Python, and novice R. 
 
