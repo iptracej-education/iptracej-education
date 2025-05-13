@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on OMSA program at Georgia Tech - 2025. 
-- 🌱 I’m currently learning Data Science, Mathmatics, and Programming.
+- 🌱 I’m currently learning Data Science, Mathematics, and Programming.
 - 💬 Ask me about a general career journey since I have worked there for 25 years in IT security industry. 
 - 📫 How to reach me: Please send your email to kiwatana@hotmail.co.jp with your brief introduction. 
 - ⚡ Fun fact: I like dogs and having funs with them, in Dayton, Ohio. I am also getting a private license for aviation.
