@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on OMSA program at Georgia Tech - 2025. 
-- 🌱 I’m currently learning Data Science, Mathematics, and Programming.
-- 💬 Ask me about a general career journey since I have worked there for 25 years in IT security industry. 
+- 🌱 I’m currently learning/relearning Data Science, Mathematics, and Programming / System Design.
+- 💬 Ask me about security career jounery and if you are intested, love to share my vision on how security AI / ML engineering looks like. 
 - 📫 How to reach me: Please send your email to kiwatana@hotmail.co.jp with your brief introduction. 
 - ⚡ Fun fact: I like dogs and having funs with them, in Dayton, Ohio. I am also getting a private license for aviation.
 - ✨ Professional: [Linkedin](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/) and [Github](https://github.com/iptracej/)
