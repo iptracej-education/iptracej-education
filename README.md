@@ -24,11 +24,7 @@ This is the main repository for my source codes and projects. Through this colle
 
 - Email: **kiwatana@hotmail.co.jp** (feel free to reach out with a short intro)
 - LinkedIn: [linkedin.com/in/kiyoshi-watanabe-06395213](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/)
-- Blogs:  
-  - [Qiita](https://qiita.com/iptracej)  Japanese 
-  - [note](https://note.com/kiwatana) Japanese 
-  - [X - Myself](https://x.com/iptracej)
-  - [X - Stocks](https://x.com/cipha1969)
+- Blogs and Tweets: [Qiita](https://qiita.com/iptracej) Japanese| [note](https://note.com/kiwatana) Japanese | [X - Myself](https://x.com/iptracej) | [X - Stocks](https://x.com/cipha1969)
 
 ---
 
