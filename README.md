@@ -13,7 +13,8 @@ This is the main repository for my source codes and projects. Through this colle
 
 - Programming Languages: C, C#, Java, JavaScript, Python, SQL, R  
 - Fields of Interest:  
-  - Data Science & Machine Learning  ([AI ML Research Interest](AI-ML-Research-Topics))
+  - Data Science & Machine Learning  ([AI ML Research Interest](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
+
   - Software Vulnerability & Threat Detection  
   - System Architecture & Cloud Design  
   - Financial Analytics & Quant Trading 
