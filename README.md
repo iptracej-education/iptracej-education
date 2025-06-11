@@ -16,7 +16,7 @@ This is the main repository for my source codes and projects. Through this colle
   - Data Science & Machine Learning  
   - Software Vulnerability & Threat Detection  
   - System Architecture & Cloud Design  
-  - Financial Analytics & Time-Series Modeling  
+  - Financial Analytics & Quant Trading 
 
 ---
 
@@ -24,10 +24,9 @@ This is the main repository for my source codes and projects. Through this colle
 
 - Email: **kiwatana@hotmail.co.jp** (feel free to reach out with a short intro)
 - LinkedIn: [linkedin.com/in/kiyoshi-watanabe-06395213](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/)
-- Blogs and Tweets: [Qiita](https://qiita.com/iptracej) Japanese| [note](https://note.com/kiwatana) Japanese | [X - Myself](https://x.com/iptracej) | [X - Stocks](https://x.com/cipha1969)
+- Blogs and Tweets:
+  - [Qiita](https://qiita.com/iptracej) Japanese
+  - [Note](https://note.com/kiwatana) Japanese
+  - [X: Myself](https://x.com/iptracej) | [X: Stocks Related](https://x.com/cipha1969)
 
----
 
-### ⚡ Fun Fact
-
-I love dogs and aviation—currently working toward my **private pilot’s license** ✈️🐶
