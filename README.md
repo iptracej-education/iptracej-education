@@ -5,7 +5,7 @@ This is the main repository for my source codes and projects. Through this colle
 🔭 Currently pursuing the **Online Master of Science in Analytics (OMSA)** at **Georgia Tech (Class of 2025)**.  
 🌱 Actively learning and refreshing my skills in **Data Science**, **Mathematics**, **Programming**, and **System Design**.  
 💬 Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense.  
-✈️ Outside of tech, I’m training for a **private pilot’s license** and enjoy time with my dogs in **Dayton, Ohio**.  
+✈️ Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my dogs in **Dayton, Ohio**.  
 
 ---
 
