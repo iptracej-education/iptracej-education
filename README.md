@@ -7,6 +7,9 @@ This is the main repository for my source codes and projects. Through this colle
 💬 Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense.  
 ✈️ Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my wife and dogs in **Dayton, Ohio**.  
 
+[Resume](https://iptracej-education.github.io/resume/)
+[Publications](https://iptracej-education.github.io/publications/)
+
 ---
 
 ### 🔧 Technical Skills
