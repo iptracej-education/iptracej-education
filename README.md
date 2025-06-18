@@ -24,7 +24,6 @@ This is the main repository for my source codes and projects. Through this colle
 
 - Email: **kiwatana@hotmail.co.jp** (feel free to reach out with a short intro)
 - LinkedIn: [linkedin.com/in/kiyoshi-watanabe-06395213](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/)
-- [Resume](https://iptracej-education.github.io/resume/ 
 - Blogs and Tweets:
   - [Security](https://iptracej-education.github.io) 
   - [Qiita](https://qiita.com/iptracej) Japanese
