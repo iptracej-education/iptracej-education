@@ -3,7 +3,7 @@
 This is the main repository for my source codes and projects. Through this collection, you can gain insight into the topics I explored and studied during my academic, professional, and personal endeavors in data science and security. I am sharing my portfolio here, including content from both private and public online and in-person classes and project works. Please note that some repositories are private and cannot be shared. Feel free to reach out if you have any questions. 
 
 🔭 Currently pursuing the **Online Master of Science in Analytics (OMSA)** at **Georgia Tech (Class of 2025)**.  
-🌱 Actively learning and refreshing my skills in **Machine Learning**, **Mathematics**, **Programming**, and **Architecture Design**.  
+🌱 Actively learning and refreshing my skills in **Machine Learning**, **Mathematics**, **LLM-Driven Coding**, and **Architecture Design**.  
 💬 Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense.  
 ✈️ Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my wife and dogs in **Dayton, Ohio**.  
 
