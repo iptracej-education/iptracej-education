@@ -13,25 +13,22 @@ This is the main repository for my source codes and projects. Through this colle
 ---
 
 ### 🔧 Technical Skills
-
 - Programming Languages: LLM multi agent coder (Claude + Cursor + Grok + DeepSeekCoder), C, C++, C#, Java, JavaScript, Python, SQL, R
-- Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms 
+- Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
   - Software Vulnerability & Threat Detection  ([ZeroBuilder](https://github.com/iptracej-education/ZeroBuilder)) 
-  - System Architecture & Cloud Design   ([LLM knowledge engineering patterns](https://github.com/iptracej-education/llm-knowledge-patterns))
+  - System Architecture & LLM App Design   ([LLM knowledge engineering patterns](https://github.com/iptracej-education/llm-knowledge-patterns))
   - Multi LLM agent coding ([multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
 
 ---
 
 ### 📫 Get in Touch
-
 - Email: **kiwatana@hotmail.co.jp** (feel free to reach out with a short intro)
 - LinkedIn: [linkedin.com/in/kiyoshi-watanabe-06395213](https://www.linkedin.com/in/kiyoshi-watanabe-06395213/)
 - Blogs and Tweets:
   - [Security & Coding](https://iptracej-education.github.io) 
-  - [Qiita](https://qiita.com/iptracej) Japanese
-  - [Note](https://note.com/kiwatana) Japanese
+  - [Qiita](https://qiita.com/iptracej) [Note](https://note.com/kiwatana) Japanese
   - [X: Myself](https://x.com/iptracej) | [X: Stocks Related](https://x.com/cipha1969)
 
 
