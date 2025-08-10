@@ -13,7 +13,7 @@ This is the main repository for my source codes and projects. Through this colle
 ---
 
 ### 🔧 Technical Skills
-- Programming Languages: LLM multi agent coder (Claude + Gemini + Grok + DeepSeekCoder), C, C++, C#, Java, JavaScript, Python, SQL, R
+- Programming Languages: LLM multi agent coder (Claude + Gemini + Grok + Qwen3-Coder), C, C++, C#, Java, JavaScript, Python, SQL, R
 - Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
