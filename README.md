@@ -13,7 +13,7 @@ This is the main repository for my source codes and projects. Through this colle
 ---
 
 ### 🔧 Technical Skills
-- Programming Practices: AI agent coding (Claude Code + Gemini CLI + OpenAI Codex CLI + Grok cli (superagent=ai) + Qwen-Coder + kiro) and Spec-driven AI Development Framework 
+- Programming Practices: AI agent coding (Claude Code + Gemini CLI + OpenAI Codex CLI + Grok cli (superagent-ai) + Qwen-Coder + kiro) and Spec-driven AI Development Framework 
 - Programming Languages: C, C++, C#, TypeScript, Python, SQL, R 
 - Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
