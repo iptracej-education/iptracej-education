@@ -19,7 +19,7 @@ This is the main repository for my source codes and projects. Through this colle
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
   - Software Vulnerability & Threat Detection  (RaceGPT - coming soon) 
   - System Architecture & LLM App Design ([mcp-server-template](https://github.com/iptracej-education/mcp-server-template))
-  - Multi LLM agent coding ([multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
+  -LLM agent coding ([vybe](https://github.com/iptracej-education/vybe), [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
 
 ---
 
