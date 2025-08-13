@@ -13,13 +13,14 @@ This is the main repository for my source codes and projects. Through this colle
 ---
 
 ### 🔧 Technical Skills
-- Programming Languages: LLM multi agent coder (Claude + Gemini + Grok + Qwen3-Coder), C, C++, C#, Java, JavaScript, Python, SQL, R
+- Programming Practices: AI agent codering (Claude Code + Gemini CLI + OpenAI Codex CLI + Grok cli (superagent=ai) + Qwen-Coder + kiro) and Spec-driven AI Development Framework 
+- Programming Languages: C, C++, C#, TypeScript, Python, SQL, R 
 - Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
   - Software Vulnerability & Threat Detection  (RaceGPT - coming soon) 
   - System Architecture & LLM App Design ([mcp-server-template](https://github.com/iptracej-education/mcp-server-template))
-  - LLM agent coding practices ([vybe](https://github.com/iptracej-education/vybe), [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
+  - AI coding practices ([vybe - spec-driven dev](https://github.com/iptracej-education/vybe), [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
 
 ---
 
