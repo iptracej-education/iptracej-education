@@ -21,7 +21,7 @@ This is the main repository for my source codes and projects. Through this colle
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
   - Software Vulnerability & Threat Detection  (RaceGPT - coming soon) 
   - System Architecture & LLM App Design ([mcp-server-template](https://github.com/iptracej-education/mcp-server-template))
-  - AI coding practices ([vybe](https://github.com/iptracej-education/vybe) - spec-driven agile/vibe dev, [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
+  - AI coding practices ([vybe-template](https://github.com/iptracej-education/vybe-template) - template enforcement for Claude Code, [vybe](https://github.com/iptracej-education/vybe) - spec-driven agile dev for Claude Code, [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop)) 
 
 ---
 
