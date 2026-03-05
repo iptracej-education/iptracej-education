@@ -15,7 +15,7 @@ This is the main repository for my source codes and projects. Through this colle
 
 ### 🔧 Technical Skills
 - Programming Practices: AI agent coding (Claude Code + Gemini CLI + OpenAI Codex CLI + Grok cli (superagent-ai) + Qwen-Coder + kiro) and Spec-driven AI Development Framework 
-- Programming Languages: [C](https://github.com/iptracej-education/myasn1), C++, C#, TypeScript, [Python](https://github.com/iptracej-education/python_training), SQL, R 
+- Programming Languages: [C](https://github.com/iptracej-education/myasn1), C++, C#, TypeScript, Python, SQL, R 
 - Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
