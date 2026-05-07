@@ -4,8 +4,8 @@ This is the main repository for my source codes and projects. Through this colle
 
 - I am focusing on indepdendent R&D for **software vulnerability research**.
 - Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense, including specialized GPT fine-tuning and LLM trace-like reasoning 
-- Currently pursuing the [**Online Master of Science in Analytics (OMSA)**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2025)**.  
-- Actively learning and refreshing my skills in **Machine learning**, **Mathematics**, **LLM-driven coding**, and **Architecture design**.  
+- Currently pursuing the [**Online Master of Science in Analytics (OMSA)**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2026)**.  
+- Actively learning and refreshing my skills in **Deep Learning & Machine Learning**, **Mathematics**, **LLM-Driven Coding**, and **Architecture Design**.  
 - Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my wife and dogs in **Dayton, Ohio**.  
 
 [Resume](https://iptracej-education.github.io/resume/) | 
@@ -16,7 +16,7 @@ This is the main repository for my source codes and projects. Through this colle
 ### 🔧 Technical Skills
 - Programming Practices: AI agent coding (Claude Code + Gemini CLI + OpenAI Codex CLI + Grok cli (superagent-ai) + Qwen-Coder + kiro) and Spec-driven AI Development Framework 
 - Programming Languages: [C](https://github.com/iptracej-education/myasn1), C++, C#, TypeScript, Python, SQL, R 
-- Frameworks: UV, PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
+- Frameworks: PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest:  
   - Data Science & Machine Learning  ([AI ML Research Interests](https://github.com/iptracej-education/AI-ML-Research-Topics)) 
   - Software Vulnerability & Threat Detection  (RaceGPT - coming soon) 
