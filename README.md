@@ -7,7 +7,7 @@ This is the main repository for my source codes and projects. Through this colle
 - Currently pursuing the [**Master of Science in Analytics (MSA)**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2026)**.
   - [Indoor Localization Project](https://github.com/iptracej-education/CS7643-Project-Final)
   - [Vuln Signal Layers] (https://github.com/iptracej-education/vuln-signal-layers) 
-- Actively learning and refreshing my skills in **Deep Learning & Machine Learning**, **Mathematics**, **AI Coding**, and **Architecture Design**.  
+- Rrefreshing my skills in **Deep Learning & Machine Learning**, **Mathematics**, **AI Coding**, and **Architecture Design**.  
 - Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my wife and dogs in **Dayton, Ohio**.  
 
 [Resume](https://iptracej-education.github.io/resume/) | 
