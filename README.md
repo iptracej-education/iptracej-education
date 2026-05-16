@@ -7,7 +7,7 @@ This is the main repository for my source codes and projects. Through this colle
 - Currently pursuing the [**Master of Science in Analytics (MSA)**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2026)**.
   - [Indoor Localization Project](https://github.com/iptracej-education/CS7643-Project-Final) with MLP, CNN, LSTM, Transformer, and Set Transformer
   - [Vulnerability Representation Layers Project](https://github.com/iptracej-education/vuln-representation-layers) with Logistic Regression, XGBoost, MLP, and Transformer
-  -:fire:[VulnSignal](https://github.com/iptracej-education/VulnSignal) Checker-Grounded Candidate Ranking for Vulnerability Research
+  - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal) Checker-Grounded Candidate Ranking for Vulnerability Research
 - Rrefreshing my skills in **Deep Learning & Machine Learning**, **Mathematics**, **AI Coding**, and **Architecture Design**.  
 - Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my wife and dogs in **Dayton, Ohio**.  
 
