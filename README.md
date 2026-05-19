@@ -5,7 +5,7 @@ This is the main repository for my source codes and projects. Through this colle
 - I am focusing on indepdendent R&D for **software vulnerability research**, based on 20+ security works in Microsoft and other companies (ex)
 - Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense. 
 - Currently pursuing the [**Master of Science in Analytics (MSA)**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2026)**.
-  - 🔥[ML Research Engineering Portfolio]((https://github.com/iptracej-education/ml-research-engineering-portfolio)): Highlight open-source contributions, implemented papers and algorithms, etc.
+  - 🔥[ML Research Engineering Portfolio](https://github.com/iptracej-education/ml-research-engineering-portfolio): Highlight open-source contributions, implemented papers and algorithms, etc.
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="16" height="16">  [Indoor Localization From Wi-Fi Fingerprints](https://github.com/iptracej-education/CS7643-Project-Final) [(pdf)](https://github.com/iptracej-education/CS7643-Project-Final/blob/final/Report.pdf) with MLP, CNN, LSTM, Transformer, and Set Transformer
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="16" height="16">  [Vulnerability Representation Layers Project](https://github.com/iptracej-education/vuln-representation-layers) [(pdf)](https://github.com/iptracej-education/vuln-representation-layers/blob/main/Report.pdf) with Logistic Regression, XGBoost, MLP, and Transformer
   - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research
