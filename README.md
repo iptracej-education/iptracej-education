@@ -15,6 +15,8 @@ This is the main repository for my source codes and projects. Through this colle
 [Publications](https://iptracej-education.github.io/publications/)
 
 <link rel="icon" type="image/x-icon" href="https://gatech.edu">
+<link rel="icon" type="image/png" sizes="16x16" href="https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+">
 ---
 
 ### 🔧 Technical Skills
