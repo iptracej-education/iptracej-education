@@ -14,7 +14,7 @@ This is the main repository for my source codes and projects. Through this colle
 [Resume](https://iptracej-education.github.io/resume/) | 
 [Publications](https://iptracej-education.github.io/publications/)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="24" height="24"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="16" height="16"> 
 
 
 ---
