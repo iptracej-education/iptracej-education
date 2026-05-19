@@ -14,6 +14,7 @@ This is the main repository for my source codes and projects. Through this colle
 [Resume](https://iptracej-education.github.io/resume/) | 
 [Publications](https://iptracej-education.github.io/publications/)
 
+<link rel="icon" type="image/x-icon" href="https://gatech.edu">
 ---
 
 ### 🔧 Technical Skills
