@@ -14,7 +14,14 @@ This is the main repository for my source codes and projects. Through this colle
 [Resume](https://iptracej-education.github.io/resume/) | 
 [Publications](https://iptracej-education.github.io/publications/)
 
+### 🛠️ Fixed Georgia Tech Favicon Code
+
+<!-- 🟡 Gold/Yellow Accent for the SVG Web Asset -->
 <link rel="icon" type="image/svg+xml" href="https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg">
+
+<!-- 🔵 Blue/Dark Accent for the Legacy Fallback Asset -->
+<link rel="alternate icon" type="image/x-icon" href="https://gatech.edu">
+
 
 ---
 
