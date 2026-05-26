@@ -2,7 +2,7 @@
 
 This is the main repository for my source codes and projects. Through this collection, you can gain insight into the topics I explored and studied during my academic, professional, and personal endeavors in machine learning and security. Feel free to reach out if you have any questions. 
 
-- I am focusing on indepdendent R&D for **software vulnerability research**, based on 20+ security works in Microsoft and other companies (ex)
+- I am focusing on indepdendent R&D for **software vulnerability research and analysis**, based on 20+ security works in Microsoft and other companies (ex)
 - Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense. 
 - Currently pursuing the [**Master of Science in Analytics (MSA)**](https://github.com/iptracej-education/OMSA) - Computational Analytics at **Georgia Tech (Class of 2026)**.
   - 🔥[ML Research Engineering Portfolio](-https://github.com/iptracej-education/ml-research-engineering-portfolio): Open-source contributions, implemented papers and algorithms, etc.
