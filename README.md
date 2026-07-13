@@ -20,7 +20,7 @@ This is the main repository for my source codes and projects. Through this colle
 
 --- 
 ### 🔧 Harness Projects
-- [grok-monitor]((https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent
+- [grok-monitor](https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent
 - More to come soon... 
 
 ---
