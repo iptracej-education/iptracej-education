@@ -20,7 +20,7 @@ This is the main repository for my source codes and projects. Through this colle
 
 --- 
 ### 🔧 Harness Projects
-- [grok-monitor](https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent (Codex 5.6 Sol, Codex 5.4-mini, Claude Code Fable 5, Grok 5.4 via [agmsg](https://github.com/fujibee/agmsg) and [grill-me-docs](https://www.aihero.dev/grill-with-docs)). 
+- [grok-monitor](https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent (developed with Codex 5.6 Sol, Codex 5.4-mini, Claude Code Fable 5, and Grok 5.4 via [agmsg](https://github.com/fujibee/agmsg) and [grill-me-docs](https://www.aihero.dev/grill-with-docs)). 
 - (More to come soon...) 
 
 ---
