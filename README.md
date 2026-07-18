@@ -19,9 +19,10 @@ This is the main repository for my source codes and projects. Through this colle
 [Publications](https://iptracej-education.github.io/publications/)
 
 --- 
-### 🔧 Harness Projects
-- [grok-monitor](https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent (developed with Codex 5.6 Sol, Codex 5.4-mini, Claude Code Fable 5, and Grok 5.4 via [agmsg](https://github.com/fujibee/agmsg) and [grill-me-docs](https://www.aihero.dev/grill-with-docs)). 
-- (More to come soon...) 
+### 🔧 Open-loop, Document-driven Cross Model Harness Projects
+- [grok-monitor](https://github.com/iptracej-education/grok-monitor): This monitor is used for Grok CLI where it wakes an idle Grok agent when it receives an message from another agent (Developed with Codex 5.6 Sol, Codex 5.4-mini, Claude Code Fable 5, and Grok 5.4 via [agmsg](https://github.com/fujibee/agmsg) and [grill-me-docs](https://www.aihero.dev/grill-with-docs)). 
+- agmsg-remote: This tool allows a codex agent in remote server to connect and send & recieve messages in a local machine in agmsg.
+(Developed with Claude Code Fable 5 with wayfinder, Codex 5.6 Sol with grill-me-docs, and Codex models to code all and Claude Code Fable 5 to review all). 
 
 ---
 
