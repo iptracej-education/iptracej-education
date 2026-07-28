@@ -7,9 +7,10 @@ This is the main repository for my source codes and projects. Through this colle
 - Currently pursuing the [**Master of Science in Analytics and Computer Science**](https://github.com/iptracej-education/OMSA) - Computational Analytics at **Georgia Tech (Class of 2026)**.
   - 🔥[myAgentLab - Multi-Agent and Agentic LLM Papers](https://github.com/iptracej-education/myAgentLab): My own implementation of multi agent relevant academic papers
   - 🔥[aula](https://github.com/iptracej-education/aula): A minimal, improvable orchestration for multi-agent runs, in Rust. Every run on the record; every improvement measured.
+  - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="16" height="16">  [Indoor Localization From Wi-Fi Fingerprints: Robustness Study under Data Perturbations](https://github.com/iptracej-education/CS7643-Project-Final) [(pdf)](https://github.com/iptracej-education/CS7643-Project-Final/blob/final/Report.pdf) with MLP, CNN, LSTM, Transformer, and Set Transformer
   - <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Georgia_Tech_logo_2021_Cropped.png" width="16" height="16">  [Patch-Delta-Guided Representation Layers Study](https://github.com/iptracej-education/vuln-representation-layers) [(pdf)](https://github.com/iptracej-education/vuln-representation-layers/blob/main/Report.pdf) with Logistic Regression, XGBoost, MLP, and Transformer
-  - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research
+ 
   - 💡[Evidence-Guided Fuzz Harness (Proposal)](https://gist.github.com/iptracej-education/c1d10b83e267fba9d4b63e46da8020c8): An agentic system that turns vulnerability signals into fuzzing campaigns.
   - 💡[Linux PatchDiff Postmortem-AI (Proposal)](https://gist.github.com/iptracej-education/48e39a9e2bd2244b185d810e57a61188): LM-Assisted Post-Patch Root-Cause Analysis for Linux Security Updates
   - 💡[PatchQL-Agent (Proposal)](https://gist.github.com/iptracej-education/54ebb0ca93e9551e7490127f9034a147): Patch-Delta-Guided CodeQL Query Synthesis for Vulnerability Variant Discovery
