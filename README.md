@@ -10,11 +10,6 @@ This is the main repository for my source codes and projects. Through this colle
   - [VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research
   - [Indoor Localization From Wi-Fi Fingerprints: Robustness Study under Data Perturbations](https://github.com/iptracej-education/CS7643-Project-Final) [(pdf)](https://github.com/iptracej-education/CS7643-Project-Final/blob/final/Report.pdf) with MLP, CNN, LSTM, Transformer, and Set Transformer
   - [Patch-Delta-Guided Representation Layers Study](https://github.com/iptracej-education/vuln-representation-layers) [(pdf)](https://github.com/iptracej-education/vuln-representation-layers/blob/main/Report.pdf) with Logistic Regression, XGBoost, MLP, and Transformer
- 
-  - 💡[Evidence-Guided Fuzz Harness (Proposal)](https://gist.github.com/iptracej-education/c1d10b83e267fba9d4b63e46da8020c8): An agentic system that turns vulnerability signals into fuzzing campaigns.
-  - 💡[Linux PatchDiff Postmortem-AI (Proposal)](https://gist.github.com/iptracej-education/48e39a9e2bd2244b185d810e57a61188): LM-Assisted Post-Patch Root-Cause Analysis for Linux Security Updates
-  - 💡[PatchQL-Agent (Proposal)](https://gist.github.com/iptracej-education/54ebb0ca93e9551e7490127f9034a147): Patch-Delta-Guided CodeQL Query Synthesis for Vulnerability Variant Discovery
-- Rrefreshing my skills in **Deep Learning & Machine Learning**, **Mathematics**, **AI Coding**, and **Architecture Design**.  
 - Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my family in **Dayton, Ohio**.  
 
 [Resume](https://iptracej-education.github.io/resume/) | 
