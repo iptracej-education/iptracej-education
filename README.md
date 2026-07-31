@@ -7,7 +7,7 @@ This is the main repository for my source codes and projects. Through this colle
 - Currently pursuing the [**Master of Science in Analytics and Computer Science**](https://github.com/iptracej-education/OMSA) - Computational Analytics at **Georgia Tech (Class of 2026)**.
   - 🔥[myAgentLab - Research paper implementation](https://github.com/iptracej-education/myAgentLab): My implementation of multi agent relevant academic papers
   - 🔥[Rekodo](https://github.com/iptracej-education/rekodo): A minimal, improvable orchestration for multi-agent runs. Every run recorded, and the next run improved.
-  - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research, awarded by [EVPR-PACESHIP Program](https://pace.gatech.edu/evpr-paceship-application/). 
+  - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research, awarded by [EVPR-PACESHIP Program](https://pace.gatech.edu/evpr-paceship-application/) in GaTech. 
   - [Indoor Localization From Wi-Fi Fingerprints: Robustness Study under Data Perturbations](https://github.com/iptracej-education/CS7643-Project-Final) [(pdf)](https://github.com/iptracej-education/CS7643-Project-Final/blob/final/Report.pdf) with MLP, CNN, LSTM, Transformer, and Set Transformer
   - [Patch-Delta-Guided Representation Layers Study](https://github.com/iptracej-education/vuln-representation-layers) [(pdf)](https://github.com/iptracej-education/vuln-representation-layers/blob/main/Report.pdf) with Logistic Regression, XGBoost, MLP, and Transformer
 - Outside of tech, I’m taking lessons for a **private pilot’s license** and enjoy time with my family in **Dayton, Ohio**.  
