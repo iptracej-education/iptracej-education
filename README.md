@@ -26,7 +26,7 @@ This is the main repository for my source codes and projects. Through this colle
 ### 🔧 Technical Skills
 - Programming Languages: [C](https://github.com/iptracej-education/myasn1), C++, C#, TypeScript, Python, SQL, R with VScode/neovim 
 - AI Coding Practices: AI agent coding (Codex + Claude Code + Gemini CLI + open-source LLMs)
-  - [vybe-template](https://github.com/iptracej-education/vybe-template) - pattern inheritor for claude code, [vybe](https://github.com/iptracej-education/vybe) - spec-driven agile dev for claude code, [multi-agent-coding-loop](https://github.com/iptracej-education/multi-agent-coding-loop) 
+  - [vybe-template](https://github.com/iptracej-education/vybe-template) - pattern inheritor for claude code, [vybe](https://github.com/iptracej-education/vybe) - spec-driven agile dev for claude code.
 - Frameworks: PyTorch with deepLearning and reinforcement learning algorithms, OpenAI API and Anthropic API
 - Fields of Interest: [Agentic AI Vulnerability Research](https://github.com/iptracej-education/AI-ML-Research-Topics) 
 
