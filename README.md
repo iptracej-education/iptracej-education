@@ -5,7 +5,7 @@ This is the main repository for my source codes and projects. Through this colle
 - I am focusing on indepdendent R&D for **software vulnerability research and analysis**, based on 20+ security works in Microsoft and other companies (ex)
 - Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense. 
 - Currently pursuing the [**Master of Science in Analytics and Computer Science**](https://github.com/iptracej-education/OMSA) - Computational Analytics at **Georgia Tech (Class of 2026)**.
-  - 🔥[myAgentLab - Research paper implementation](https://github.com/iptracej-education/myAgentLab): My implementation of multi agent relevant academic papers
+  - 🔥[myAgentLab - academic paper implementations ](https://github.com/iptracej-education/myAgentLab): My implementation of multi agent relevant academic papers
   - 🔥[Rekodo](https://github.com/iptracej-education/rekodo): A minimal, improvable orchestration for multi-agent runs. Every run recorded, and the next run improved.
   - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research, awarded by [EVPR-PACESHIP Program](https://pace.gatech.edu/evpr-paceship-application/) in GaTech. 
   - [Indoor Localization From Wi-Fi Fingerprints: Robustness Study under Data Perturbations](https://github.com/iptracej-education/CS7643-Project-Final) [(pdf)](https://github.com/iptracej-education/CS7643-Project-Final/blob/final/Report.pdf) with MLP, CNN, LSTM, Transformer, and Set Transformer
