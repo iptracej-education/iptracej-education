@@ -4,7 +4,7 @@ This is the main repository for my source codes and projects. Through this colle
 
 - I am focusing on indepdendent R&D for **software vulnerability research and analysis**, based on 10+ security works in Microsoft and other companies (ex)
 - Deeply interested in **Security Engineering powered by AI/ML**—where data meets defense. 
-- Currently pursuing the [**Master of Science in Analytics and Computer Science**](https://github.com/iptracej-education/OMSA) - Computational Analytics at **Georgia Tech (Class of 2026)**.
+- Currently pursuing the [**Master of Science in Analytics and Computer Science**](https://github.com/iptracej-education/OMSA) at **Georgia Tech (Class of 2026)**.
   - 🔥[myAgentLab - academic paper implementations ](https://github.com/iptracej-education/myAgentLab): My implementation of multi agent relevant academic papers
   - 🔥[Rekodo](https://github.com/iptracej-education/rekodo): A minimal, improvable orchestration for multi-agent runs. Every run recorded, and the next run improved.
   - 🔥[VulnSignal](https://github.com/iptracej-education/VulnSignal): Tool-Grounded Candidate Ranking for Vulnerability Research, awarded by [EVPR-PACESHIP Program](https://pace.gatech.edu/evpr-paceship-application/) at GaTech. 
